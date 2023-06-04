@@ -1,0 +1,12 @@
+comandos vaacicos:
+cd : aceder a un directorio
+ls : mostrar que hay en el directorio
+mkdir : crear un directorio
+cd .. : retroceder en el directorio
+clear : limpiar consola
+toush : crear un documento vacio for example un name.txt
+cd . : es lo contrario de regresar me refiero a adelantar como ctrl + y
+cat : se utilisa para mostrar que hay dentro de un documento 
+history : este es para ver el historial de comando y para seleciona uno de los comandos tienes que poner !numero del comando;
+rm : es remover en pocas palabaras eliminar
+comando --help : este es para ver las opciones que puedes usar para el comando que usaste
