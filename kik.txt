@@ -25,6 +25,7 @@ $ git config --global user.name : esto es para registrarte en git para saver qui
 $ git config --global user.email : esto es para registrarte en git para saver quien sos
 $ git diff : es para comparar versiones
 $ git reset : nos permite volver a una version anterior
+$ git reset --hard: nos permite volver a una version anterior borrando todas las que eran versiones superiores
 $ git log --stat : puedes ver los canbios en las versiones
 $ git checkout version archibo.txt : es para volver a una version atras
 $ git checkout master archibo.txt : este es para volver a nuestra version normal
