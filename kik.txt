@@ -32,4 +32,4 @@ $ git checkout master archibo.txt : este es para volver a nuestra version normal
 $ git branch : es para mostrar las ramas que tiene tu repositorio
 $ git branch nameOfRama : es para crear una rama nueva
 $ git checkout nameOfRama : es para acceder a la rama creada o antigua
-$ git branch -d nameOfRama : es para eliminar una rama
+$ git branch -d nameOfRama : es para eliminar una pera
