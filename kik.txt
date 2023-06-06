@@ -11,10 +11,10 @@ $ git pull //traer repositorio remoto
 $ ls //listado de carpetas en donde me encuentro es decir dir en windows
 $ pwd //ubicacion actual
 $ mkdir //make directori nueva carpeta
-$ touch archivo.extencion//crear archivo vacio
+$ touch name.extencion//crear archivo vacio
 $ cat archivo.extencion//muestra el contenido del archivo
 $ history //historial de comandos utilizados durante esa sesion
-$ rm archivo.extencion //eliminacion de archivo
+$ rm name.extencion //eliminacion de archivo
 $ comando --help //ayuda sobre el comando
 $ checkout //traer cambios realizado
 $ git rm --cached archivo.extencion//se usa para devolver el archivo que se tiene en ram cuando escribim
