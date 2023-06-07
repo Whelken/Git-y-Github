@@ -1,0 +1,7 @@
+ssh-keygen -t rsa -b 4096 -C "gmil" : esto es para crear una llave la -t es para 
+indicar el tipo de cifrado el -b es para poner la complejidad del cifrado y la -C 
+es para indicar el correo;
+
+eval $(ssh-agent -s) : es para evaluar si la llave esta creo es como que dispara un comando puedes
+
+ssh-add ~/.NameDondeEstánLasLLaves/nameDeLaLlavePrivada : estos es para agregar la llave
