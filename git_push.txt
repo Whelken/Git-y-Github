@@ -1,0 +1,8 @@
+$ git remote origin directorioDeGitHub : este es para crear el origin osea el origin
+es el repositorio donde guardaras las versiones que tu quieres que las persons vean.
+$ git remote : te permite ver si hay alguna origin.
+$ git remote -v : es para que veas los origin como push y fetch
+note: cuando haces un cambio en gitHub de tu código y le haces un commit este no se vera reflejado en ningún lado
+porque tienes que hacerle un pull
+$ git push origin nameDeRama : este lo que hace es mandar la version Head->Master 
+de la rama seleccionada;
