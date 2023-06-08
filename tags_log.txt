@@ -1,0 +1,12 @@
+$ git tag -a nameOfVersion -m "note" tuCommit : es para crear una version en gitHub;
+$ git tag : es para ver las versiones que tienes creada;
+$ git tag -d nameOfVersion : para eliminar una version;
+note: para enviar estas versiones a tu repositorio git tienes que hacer esto 
+ya conoces el remote para vincular tus proyecto con un repositorio de gitHub 
+envía tus versiones con el push y ponle la version que quieres enviar a tu repositorio gitHub
+
+$ git log --graph : es parta que te muestre un gráfico de tus commit 
+$ git log --graph --decorate --oneline : es para que te lo muestre mas bonito y
+resumido es el mas bonito;
+$ alias nameVar= "comandos" : esto es una maravilla te permite encerrar en una variable
+una serie de comandos para que no tengas que escribir todos estos;
