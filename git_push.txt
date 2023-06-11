@@ -7,4 +7,4 @@ porque tienes que hacerle un pull
 $ git push origin nameDeRama : este lo que hace es mandar la version Head->Master 
 de la rama seleccionada;
 
-hola soy jose el pepe y pendejo
+hola soy  fdffdddddd
