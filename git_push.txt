@@ -6,3 +6,5 @@ note: cuando haces un cambio en gitHub de tu código y le haces un commit este n
 porque tienes que hacerle un pull
 $ git push origin nameDeRama : este lo que hace es mandar la version Head->Master 
 de la rama seleccionada;
+
+hola soy jose el pepe y pendejo
