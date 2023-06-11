@@ -1,0 +1,1 @@
+$ git rebase rama : es para fusionar una rama completa pero ojo es peligroso no usar;
