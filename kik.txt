@@ -37,7 +37,7 @@ $ git merger nameOfRama : es para fusionar las ramas
 $ git clone repositorioGitHub : es para mudar una copia del repositorio que quieres a tu pc;
 $ git cherry-pick commit : es para traer un commit antiguo a el head es una muy mala practica 
 $ git reflog : es para la historia completa e punto a punto no se borra nada xd
-
+$ git commit --amend : es para cuando quieres guardar algo pero en el mismo commit no creando otro:
 
 .gitignore : es un archivo one pones las cosas que no quieres que se muestren en tu repositorio como imgs o videos;
  
