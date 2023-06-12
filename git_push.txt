@@ -1,4 +1,4 @@
-$ git remote origin directorioDeGitHub : este es para crear el origin osea el origin
+$ git remote add origin directorioDeGitHub : este es para crear el origin osea el origin
 es el repositorio donde guardaras las versiones que tu quieres que las persons vean.
 $ git remote : te permite ver si hay alguna origin.
 $ git remote -v : es para que veas los origin como push y fetch
